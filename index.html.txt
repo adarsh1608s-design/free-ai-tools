@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Free AI Tools for Students (2026)</title>
+    <meta name="description" content="Best free AI tools for students in 2026. Writing, homework, resume, image and more.">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>🔥 Free AI Tools for Students (2026)</h1>
+
+    <div class="tool">
+        <h2>ChatGPT</h2>
+        <p>AI chatbot for homework help, writing and coding.</p>
+        <a href="https://chat.openai.com" target="_blank">Visit Tool</a>
+    </div>
+
+    <div class="tool">
+        <h2>Grammarly</h2>
+        <p>Improve essays and assignments instantly.</p>
+        <a href="https://grammarly.com" target="_blank">Visit Tool</a>
+    </div>
+
+    <div class="tool">
+        <h2>Canva</h2>
+        <p>Create presentations and resumes easily.</p>
+        <a href="https://canva.com" target="_blank">Visit Tool</a>
+    </div>
+
+    <div class="tool">
+        <h2>QuillBot</h2>
+        <p>Paraphrase and improve writing quickly.</p>
+        <a href="https://quillbot.com" target="_blank">Visit Tool</a>
+    </div>
+
+</body>
+</html>
